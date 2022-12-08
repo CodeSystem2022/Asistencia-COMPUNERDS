@@ -8,4 +8,3 @@ for i in cadena:
 lista.remove('')
 list(lista)
 print(lista)
-
